@@ -1,0 +1,127 @@
+[
+  {
+    "Ticker": "AVGO",
+    "Name": "Broadcom",
+    "Category": "Liam's Phone"
+  },
+  {
+    "Ticker": "MRVL",
+    "Name": "Marvell",
+    "Category": "Liam's Phone"
+  },
+  {
+    "Ticker": "TSM",
+    "Name": "Taiwan Semiconductor",
+    "Category": "Liam's Phone"
+  },
+  {
+    "Ticker": "SNDK",
+    "Name": "SanDisk",
+    "Category": "Liam's Phone"
+  },
+  {
+    "Ticker": "LLY",
+    "Name": "Eli Lilly",
+    "Category": "Liam's Phone"
+  },
+  {
+    "Ticker": "AMAT",
+    "Name": "Applied Materials",
+    "Category": "Liam's Phone"
+  },
+  {
+    "Ticker": "COHR",
+    "Name": "Coherent",
+    "Category": "Liam's Phone"
+  },
+  {
+    "Ticker": "STX",
+    "Name": "Seagate",
+    "Category": "Liam's Phone"
+  },
+  {
+    "Ticker": "MSFT",
+    "Name": "Microsoft",
+    "Category": "Liam's Phone"
+  },
+  {
+    "Ticker": "ARM",
+    "Name": "Arm",
+    "Category": "Ash's Phone"
+  },
+  {
+    "Ticker": "NOK",
+    "Name": "Nokia",
+    "Category": "Liam's Phone"
+  },
+  {
+    "Ticker": "TSLA",
+    "Name": "Tesla",
+    "Category": "Liam's Phone"
+  },
+  {
+    "Ticker": "PLTR",
+    "Name": "Palantir",
+    "Category": "Liam's Phone"
+  },
+  {
+    "Ticker": "ONDS",
+    "Name": "Ondas Holdings",
+    "Category": "Liam's Phone"
+  },
+  {
+    "Ticker": "AMZN",
+    "Name": "Amazon",
+    "Category": "Liam's Phone"
+  },
+  {
+    "Ticker": "TE",
+    "Name": "T1 Energy",
+    "Category": "Liam's Phone"
+  },
+  {
+    "Ticker": "SOFI",
+    "Name": "SoFi Technologies",
+    "Category": "Liam's Phone"
+  },
+  {
+    "Ticker": "NOW",
+    "Name": "ServiceNow",
+    "Category": "Liam's Phone"
+  },
+  {
+    "Ticker": "NVDA",
+    "Name": "NVIDIA Corporation",
+    "Category": "Ash's Phone"
+  },
+  {
+    "Ticker": "IBM",
+    "Name": "International Business Machines",
+    "Category": "Ash's Phone"
+  },
+  {
+    "Ticker": "GOOG",
+    "Name": "Alphabet Inc.",
+    "Category": "Ash's Phone"
+  },
+  {
+    "Ticker": "CRWD",
+    "Name": "CrowdStrike Holdings, Inc.",
+    "Category": "Ash's Phone"
+  },
+  {
+    "Ticker": "SHOP",
+    "Name": "Shopify Inc.",
+    "Category": "Ash's Phone"
+  },
+  {
+    "Ticker": "META",
+    "Name": "Meta Platforms, Inc.",
+    "Category": "Ash's Phone"
+  },
+  {
+    "Ticker": "INFU",
+    "Name": "InfuSystems Holdings, Inc.",
+    "Category": "Watchlist"
+  }
+]
